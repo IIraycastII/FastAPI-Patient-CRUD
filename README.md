@@ -18,14 +18,6 @@ A REST API built with FastAPI to manage patient records. This project demonstrat
 
 ---
 
-## 📁 Project Structure
-├── main.py # FastAPI application
-├── patients.json # Local data storage
-└── README.md
-
-
----
-
 ## ⚙️ Installation & Setup
 ```bash
 git clone https://github.com/your-username/fastapi-patient-api.git
